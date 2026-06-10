@@ -18,8 +18,8 @@ Battle system for **BallsDex V3**. Players battle eachother using their countryb
 
 You may change the following in the code to suit your dex better:
 
-- MAXSTATS: `5000, 5000` by default, ordered as HP, ATK.
-- SPECIAL_BUFFS: Maps special emojis directly to buffs, ordered as HP, ATK. Defaults to `✨: 2000, 2000` and `🔮: 5000, 5000`.
+- MAXSTATS, ordered as HP, ATK.
+- SPECIAL_BUFFS, ordered as HP, ATK.
 
 ### 2 — Configure extra.toml
 
