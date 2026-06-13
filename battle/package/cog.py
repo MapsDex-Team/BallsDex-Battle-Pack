@@ -27,8 +27,8 @@ log = logging.getLogger("ballsdex.packages.battle")
 
 # Configuration constants
 SPECIAL_BUFFS = {
-    "✨": (2000, 2000),
-    "🔮": (5000, 5000),
+    "✨": (2000, 2000), # Shiny buffs
+    "🔮": (5000, 5000), # Mythical buffs
 } # Special buffs
 # HP, ATK
 MAXSTATS = [15000, 15000] # Max stats a card is limited to (before buffs)
